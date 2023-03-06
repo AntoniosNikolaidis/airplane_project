@@ -1,4 +1,4 @@
-I create an algorithm which create a plane and check if it’s ready to take off. I create 
+I made an algorithm which create a plane and check if it’s ready to take off. I created 
 some employees that everyone has a job to do and when they finish their job the send a 
 massage that all is Ok! If all the employees send the message ok then the plane is 
 ready to take off . I create classes for every employee and every component of the plane 
